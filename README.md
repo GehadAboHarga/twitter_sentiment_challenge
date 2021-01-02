@@ -21,4 +21,4 @@ python demo.py
 
 ## Credits
 
-This is the code for twiiter sentiment analysis by Siraj raval on [YouTube](https://youtu.be/o_OZdbCzHUA). The
+This is the code for twiiter sentiment analysis by Siraj raval on [YouTube](https://youtu.be/o_OZdbCzHUA).
